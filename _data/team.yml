@@ -1,0 +1,121 @@
+-
+  id: "0"
+  name: "Jessica"
+  surname: "Fernandez de Lara"
+  company: "Centre of Latin American Studies, University of Cambridge"
+  title: "Chair of the Organising Committee"
+  thumbnailUrl: jessica_fernandez.jpg
+  team: true
+  bio: "Hi! My name is Jessica and I am in the third year of my PhD at the Center of Latin American Studies. Originally from Mexico City, I have been in the UK long enough to enjoy taking long country walks and drinking tea. I also love pottery, writing short stories and watching films. Before coming to Cambridge, I graduated in law, specialized in antitrust, regulation and politics, and lived in various countries. I am the MEXSOC Cultural Officer responsible for the organisation and running of the Symposium. My role on the Committee is to serve as its Chair, coordinate and support the work of its Sub-Committees, and liaise with authorities to ensure a successful event. I hope our Symposium contributes to foster debates, novel perspectives and collaborations among students, academics and practitioners that will benefit Mexico. I am here to listen and help, so I encourage you to get in touch if you have any questions or just want to chat. "
+  social:
+    - {name: "email", link: "mailto:jaf83@cam.ac.uk"}
+-
+  id: "1"
+  name: "Aracely"
+  surname: "Castillo"
+  company: "Stem Cell Institute / Gurdon Institute, University of Cambridge"
+  title: "Academic and Keynote Speakers"
+  thumbnailUrl: araceli_castillo.jpg
+  team: true
+  bio: "¡Hola a todos! I am Aracely and currently a second year PhD student at the Gurdon Institute. I am passionate about learning how stem cells make cell-fate decisions during early development and how these decisions can impact on disease later in life. I was born and raised in the north of Mexico in the state of Chihuahua. Since then I have lived in different cities around Germany, the US and now I am enjoying my time in Cambridge. I was/ am the president of the CU Mexican Society. This role gave me the opportunity to organise ---together with Filo, Iván, Gustavo, Fernando and Guillermo--- several events to connect with Mexicans in Cambridge and to promote our culture with people in the UK and the vibrant international community in Cambridge. I believe the symposium is a great project and I am looking forward to welcoming Mexican students around the UK and Europe as well as people interested in our country;  learn from their research and discuss ideas together. Also, to embrace and listen from the leaders in their different disciplines invited as keynote speakers. I think our symposium will be an excellent platform for the discussion of ideas and hear from a multidisciplinary point of view. I feel honoured to be able to contribute to this project. I firmly believe Mexico is a fantastic country, having a rich culture, kind people, incredible variety of climates and biodiversity and one of the best gastronomies in the world, sounds lit, isn't it? I also think the many problems of our nation can be fixed/improved and that solving them is a responsibility of all Mexicans in the country and abroad. My role in the symposium is as coordinator of the Academic and Keynote Speakers committee, together with Iván, Annie and Fernando we are responsible for choosing, inviting and welcoming our keynote speakers. If you have any suggestions for invited speakers or any other comments, please get in touch!"
+  social:
+    - {name: "email", link: "mailto:ac2048@cam.ac.uk"}
+-
+  id: "2"
+  name: "Paola"
+  surname: "Velasco"
+  company: "Department of Development Studies"
+  title: "Academic and Students Affairs"
+  thumbnailUrl: paola_velasco.jpg
+  team: true
+  bio: "I was born in Morelia, Michoacán. I am currently a PhD student in Development Studies  looking at renewable energy and social justice. My biggest dream is to live in a world of equal opportunities for all. I have a compulsive addiction to cake and “tea time”. I’m honoured and excited to contribute organising this symposium within the Academic and Students Affairs Committee. I hope that by organising this event we will contribute to the integration of  disciplines to bring solutions to Mexico’s pressing problems. If you are interested in sharing your academic work in the Symposium do not hesitate to email me pv296@cam.ac.uk. My favourite thing about Mexico it’s the capacity of its people to enjoy life and strive, and to fill everything with colours and a sense of connectedness with each other."
+  social:
+    - {name: "email", link: "mailto:pv296@cam.ac.uk"}
+-
+  id: "3"
+  name: "Ana L."
+  surname: "Trigo"
+  company: "Faculty of Education, University of Cambridge"
+  title: "Logistics"
+  thumbnailUrl: ana_trigo.jpg
+  team: true
+  bio: "Hi, my name is Ana Laura, I was born in Mexico City and lived there until I decided to move to Cambridge (already two years ago!). I studied Psychology in UNAM and I was mainly interested in learning about Neuropsychology and the social learning of children. I was part of different research groups in UNAM where I worked with young people with autism and investigated productive social interactions between teachers and students. The latter gave me the opportunity of collaborating with academics from the University of Cambridge which, later on, inspired me to study an MPhil in Psychology and Education in their exceptional university. Now, I am doing a PhD in Education in the University of Cambridge, investigating an adjusted way of teaching children with autism in primary schools. I want to find out more about how the classroom dialogue can be adjusted to the needs of these children and provide opportunities for their voices to be heard. Besides doing research, I love singing and I am a big fan of musical theatre. I seize every opportunity I have to sing with friends and family!  I am involved in the logistics of the symposium, looking for great places in the University that can host the activities of the event and making sure that it runs smoothly. If you have any suggestions or questions, you can contact me at alt56@cam.ac.uk. I am excited to be part of the organizing committee of the symposium and help building stronger relationships between Mexican researchers in the UK."
+  social:
+    - {name: "email", link: "mailto:alt56@cam.ac.uk"}
+-
+  id: "4"
+  name: "Masami"
+  surname: "Ando Kuri"
+  company: "Cancer Research UK Cambridge Institute, University of Cambridge"
+  title: "Socials"
+  thumbnailUrl: masami_andokuri.jpg
+  team: true
+  bio: "Hello! My name is Masami and I was born and raised my entire life in Mexico City. I briefly moved to Cuernavaca to study for a bachelor's degree in Genomic Sciences at the UNAM-Morelos.  Having the opportunity to do research at a very young stage in my degree made me realise I wanted to work in academia, this is why now I am pursuing a PhD at the Cancer Research UK Cambridge Institute in the University of Cambridge. I am very fond of watching interesting films and learning new languages! My role in this team is to coordinate the cherished social events at the symposium. I am looking forward to participating in this event because of the extremely valuable connections we seek to create between Mexicans in the UK and in Mexico."
+  social:
+    - {name: "email", link: "mailto:ma759@cam.ac.uk"}
+-
+  id: "5"
+  name: "Filo"
+  surname: "de la Llata"
+  company: "ICE, Madingley Hall, University of Cambridge"
+  title: "Careers and Networking"
+  thumbnailUrl: filo_delallata.jpg
+  team: true
+  bio: "Hi there! My name is Filo de la Llata and I was born and raised in Coapa, a neighbourhood in Mexico City. Before moving to Cambridge, I had lived in Tokyo and many years in Berlin. I then moved to Lincoln, UK to work in the videogame industry at Rockstar Games. I’m currently studying the Creative Writing program at Madingley Hall in Cambridge University; before that, I completed my bachelor’s degree in video game design. I’m currently working as a director of Coapa & Co. the first publishing house in the UK that specialises in Mexican Spanish content, mainly for children and young adults. I also do illustrations, I write fiction and I enjoy promoting the Mexican culture around Europe. I enjoy travelling a lot, having fun, listening to music, drawing, writing, reading, playing video games, learning new languages, participating as a cultural officer at the CUMEXSOC, attending metal concerts and hanging out with friends. My role on the organising committee for the Symposium is Careers and Networking and I’m always motivated to promote the Mexican culture, meeting and connecting Mexicans around UK and Europe, and helping with the organisation of events that promote the participation between Mexicans and people from the UK. I’m looking forward to meeting you at the Symposium, and if you have any questions, please feel free to contact me at filo@coapa.co."
+  social:
+    - {name: "email", link: "mailto:filo@coapa.co"}
+-
+  id: "6"
+  name: "Alex"
+  surname: "Guizar"
+  company: "Cambridge Conservation Research Institute, University of Cambridge"
+  title: "IT"
+  thumbnailUrl: alex_guizar.jpg
+  team: true
+  bio: "I am broadly interested in areas related to biodiversity conservation, climate change and sustainability. My PhD focuses on advancing strategies for conserving forests, and developing remote sensing approaches for improved carbon and biodiversity monitoring."
+  social:
+    - {name: "github", link: "https://github.com/guizar"}
+-
+  id: "7"
+  name: "Sarah"
+  surname: "Abel"
+  company: "Department of Anthropology, University of Iceland"
+  title: "Communications"
+  thumbnailUrl: sarah_abel.jpg
+  team: true
+  bio: "My name is Sarah Abel, and I like to think I'm British by birth but Mexican at heart. I grew up near Sheffield in the UK, and went to Cambridge to study a bachelor’s degree in French and Spanish (2011), and then an MPhil in Latin American Studies (2012). More recently, I completed a social anthropology PhD at the École des Hautes Études en Sciences Sociales in Paris (2016), and I am currently doing a postdoc at the University of Iceland – although I live most of the time in Cambridge. Studying and experiencing other societies is the part of my research that I love best, and I am fortunate that my studies have allowed me to travel to and live in lots of different places, including Ecuador, Spain, Cuba, France, Brazil, USA, and Iceland. While doing my PhD I also met my husband, who introduced me to his home country, Mexico, where I plan to live some day. I am thrilled to be part of the organizing committee for the Symposium, which I think is a fantastic opportunity to strengthen academic and cultural bonds between Mexico and the UK – a project I feel passionate about. My role on the committee is to help with English translation and proofreading."
+  social:
+    - {name: "email", link: "mailto:sabel@hi.is"}
+-
+  id: "9"
+  name: "Claudia"
+  surname: "Hernández"
+  company: "European Bioinformatics Institute, University of Cambridge"
+  title: "Website & Communications "
+  thumbnailUrl: clau_castillo.jpg
+  team: true
+  bio: "My interest to understand how cells make decisions motivated me to start my PhD in Bioinformatics working with protein phosphorylation. During this journey, I study how kinases sense and process biological information to regulate cellular functions, to achieve this task I use statistical models. Before my PhD, I obtained my bachelor degree on Genomic Sciences at the National Autonomous University of Mexico. I enjoy reading texts that cover discussions of the implications of science in our lives and I also like reading poetry, novels, and discussions about the evolution of the Internet. The digital world has had a strong influence in my education and I desire to contribute with projects to make science and knowledge more accessible, and create communities that empower people respecting their rights to navigate an inclusive and decentralized internet. My hobbies include to attend film festivals, travel, make parties, talk to people, read about random topics, and dance. The multicultural community of Cambridge and its academic diversity keeps me learning all the time, so it is an honor to work with other mexican and international students to organize this symposium. I hope we get lots of inspiration and contribute to face the challenges of the present and the future. I will be helping on the digital tasks of the project. Hope you enjoy navigating our website!"
+  social:
+    - {name: "email", link: "mailto:kurupaclau@gmail.com"}
+-
+  id: "10"
+  name: "Eddie"
+  surname: "Cano Gámez"
+  company: "Wellcome Sanger Institute, University of Cambridge"
+  title: "Socials"
+  thumbnailUrl: eddie_cano.jpg
+  team: true
+  bio: "My name is Eddie Cano Gamez. I was born and raised in the metropolitan area of Mexico City, where I spent my happiest days reading novels or sitting by the shade of an old church. I obtained my BSc in Biotechnology Engineering from Tec de Monterrey (Estado de Mexico) in 2015. Later, I was granted a Gates Scholarship to come to Cambridge and pursue an MPhil in Genomics, which I completed in 2017. I am currently a PhD student at the Wellcome Sanger Institute, Cambridge where I use genomics to study the immune system. My research tries to understand why certain people are more likely to develop autoimmune diseases, and to identify potential drug targets.  I am passionate about education and science outreach (sharing knowledge being my favourite activity) and I also enjoy literature, music, art and learning languages. My two biggest dreams are to bring together science and art, and to help building cutting-edge research in Mexico and Latin America.  My role in the Symposium is to provide attendees with a variety of social events and activities. Through these activities attendees will experience student life in Cambridge in a fun way, while also getting to know the city and its history. I look forward to this event, which is an extremely valuable space for any Mexicans doing research outside of their country, and I hope it can help them build bridges with other Mexicans and with the world. If you are planning to attend and have any questions, feel free to contact me by email."
+  social:
+    - {name: "email", link: "mailto:ec595@cam.ac.uk"}
+-
+  id: "11"
+  name: "Ana L."
+  surname: "Rubio"
+  company: "Faculty of Education, University of Cambridge"
+  title: "Academic and Keynote Speakers"
+  thumbnailUrl: ana_rubio.jpg
+  team: true
+  bio: "Hello everyone, my name is Ana I was born in Veracruz but have lived my whole life in the hectic but beautiful Mexico City. I studied Psychology in the Faculty of Psychology, UNAM where I developed my interests in inclusive education and dialogic pedagogies. As a student in the UNAM, I had the opportunity to meet and work with colleagues from the Faculty of Education of the University of Cambridge. This collaboration encouraged me to come to Cambridge to pursue an MPhil. Currently, I hold an MPhil degree in Education from the University of Cambridge and I am now pursuing a PhD degree in Education. I work with people with intellectual disabilities and my professional aspirations are to improve the quality of the education they receive, as well as their opportunities for personal and social development. I sing and dance as a hobby and I am a new lover of Isabel Allende's literature. My interest in working together with other Mexicans who are in Cambridge motivated me to be part of the organising committee of the Symposium. In collaboration with Aracely, Fernando León and Iván we form the subcommittee of the Keynote speakers. We look forward to welcoming you to Cambridge!"
+  social:
+    - {name: "email", link: "mailto:alr50@cam.ac.uk"}

@@ -1,0 +1,90 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 503
+  title: "Lunch Break"
+  place: ""
+  service: true
+-
+  id: 001
+  title: "Energy and Policy"
+  subtype: presentations
+  description: >-
+    <ol>
+    <li><strong>Brokers of knowledge in the expansion of clean energy in Mexico.</strong> Jose Maria Valenzuela</li>
+    <li><strong>Policy mixes to study low-carbon transitions: the case of oil and gas companies.</strong> Elena Pierard</li>
+    <li><strong>Nexus Power-Resistance in Wind Energy Development in the North and South of the Isthmus of Tehuantepec.</strong> Gerardo A, Torres Contreras</li>
+    <li><strong>Estimating the Requirement of Energy Storage for Mexico’s Clean Energy Transition and Policy Recommendations for the Deployment of Energy Storage Technologies  (Lightning Talk).</strong> Claudia Viridiana Diezmartínez Peregrina</li>
+    <li><strong>Role of renewables for energy security in Mexico (Lightning Talk).</strong> Ricardo Cortes Hernandez</li>
+    </ol>
+-
+  id: 002
+  title: "Development Studies"
+  subtype: presentations
+  description: >-
+    <ol>
+    <li><strong>Women’s empowerment through small business incentives: a road towards a more equal society in war-torn Mexican communities.</strong> Sanchez, Sofia </li>
+    <li><strong>An approximation of girls and teenagers labor market in Tepito, the case of one of the first periphery neighborhoods of Mexico-City (1930-1960)</strong> Digón Pérez, Miguel</li>
+    <li><strong>Clustering from below: A tool for development in The Yucatan Peninsula.</strong> Itzel San Roman Pineda</li>
+    <li><strong>Sustainable development model in communities of the Mixteca Oaxaquena, Mexico through the implementation of social enterprises.</strong> Iliana Herrea</li>
+    <li><strong>The Social Entrepreneurship Ecosystem in development strategies based on Network Modelling (Lightning talk).</strong> Vicente Espindola Verdin</li>
+    </ol>
+-
+  id: 003
+  title: "Biomedical Sciences"
+  subtype: presentations
+  description: >-
+    <ol>
+    <li><strong>Two Interlinked Bistable Switches Govern Mitotic Control in Mammalian Cells.</strong> Suarez Peredo Rodriguez, Maria Fernanda</li>
+    <li><strong>Rhizobial competition: getting to the root of the problem.</strong> Mendoza Suárez, Marcela Alejandra</li>
+    <li><strong>The role of acetyl*-phosphate in the pathogenesis of Neisseria gonorrhoeae (lightning talk).</strong>Felix Diaz Parga, Ernesto</li>
+    <li><strong>Sexual selection in brown booby (Sula leucogaster) colonies across an environmental gradient (lightning talk).</strong> Bonillas-Monge, Mario Erandi</li>
+    <li><strong>Leukaemia Stem Cells a dormant killer (lightning talk).</strong> Cendejas Orozco, Mariana</li>
+    </ol>
+-
+  id: 004
+  title: "Language and Culture"
+  subtype: presentations
+  description: >-
+    <ol>
+    <li><strong>Language ideologies in the city of Oaxaca: cultural patrimony and poverty</strong> Ramirez, Maria del Carmen</li>
+    <li><strong>Title: The invention of the benefits of being the culinary heritage of humanity</strong> García García, Brisol</li>
+    <li><strong>The Universidad Veracruzana Intercultural – a model for incorporation of indigenous languages in higher education?</strong> Lukschy, Leonore</li>
+    <li><strong>Bilingual Literacy for Life: an ethnographic study of an indigenous language literacy programme in Mexico</strong> Lorena Sanchez Tyson </li>
+    <li><strong>Bilingual Mexico: the impossible promise?</strong> Ernesto Vargas Gil</li>
+    </ol>
+
+-
+  id: 005
+  title: "Security"
+  subtype: presentations
+  description: >-
+    <ol>
+    <li><strong>Widespread Human Rights Violations in Mexico: the Militarization of Public Security</strong> Leon Rodriguez, Carlos Guillermo</li>
+    <li><strong>A comparative study of security policy design and implementation from a bottom-up approach: can the policies in Colombia and Ecuador be adapted to Mexico? </strong> Lopez Torres, Yael Anahi</li>
+    <li><strong>New risky paths for the judicial review of the Mexico City’s Government decisions</strong> Ruiz Ramírez, José Manuel</li>
+    <li><strong>Re-labelling the Mexican Conflict: Thinking beyond War and Crisis (lightning talk)</strong> Demerutis Finkenthal, Karen</li>
+    </ol>
+-
+  id: 005
+  title: "Security"
+  subtype: presentations
+  description: >-
+    <ol>
+    <li><strong>Widespread Human Rights Violations in Mexico: the Militarization of Public Security</strong> Leon Rodriguez, Carlos Guillermo</li>
+    <li><strong>A comparative study of security policy design and implementation from a bottom-up approach: can the policies in Colombia and Ecuador be adapted to Mexico? </strong> Lopez Torres, Yael Anahi</li>
+    <li><strong>New risky paths for the judicial review of the Mexico City’s Government decisions</strong> Ruiz Ramírez, José Manuel</li>
+    <li><strong>Re-labelling the Mexican Conflict: Thinking beyond War and Crisis (lightning talk)</strong> Demerutis Finkenthal, Karen</li>
+    </ol>
+-
+  id: 006
+  title: "Education"
+  subtype: presentations
+  description: >-
+    <ol>
+    
+    </ol>

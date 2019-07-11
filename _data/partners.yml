@@ -1,0 +1,17 @@
+-
+  group: "Co-host"
+  elements:
+    - {name: "University of Cambridge", description: "University of Cambridge", link: "https://www.cam.ac.uk/", imageUrl: "camuni.jpg"}
+-
+  group: "Sponsors"
+  elements:
+    - {name: "Centre of Latin American Studies, Department of Politics and International Studies, University of Cambridge", description: "Centre of Latin American Studies, Department of Politics and International Studies, University of Cambridge", link: "http://www.latin-american.cam.ac.uk/", imageUrl: "cam-clas.jpg"}
+    - {name: "CONACYT", description: "Conacyt", link: "http://www.conacyt.gob.mx", imageUrl: "conacyt.jpg"}
+    - {name: "Embajada de México en Reino Unido", description: "Embajada de México en Reino Unido", link: "https://embamex.sre.gob.mx/reinounido/index.php/en/", imageUrl: "embamex_uk.jpg"}
+    - {name: "Mexican Chamber of Commerce", description: "Mexican Chamber of Commerce", link: "http://www.mexicanchamberofcommerce.co.uk/", imageUrl: "mexcc.jpg"}
+    - {name: "Secretaría de Relaciones Exteriores", description: "Secretaría de Relaciones Exteriores", link: "https://www.gob.mx/sre", imageUrl: "sre.jpg"}
+    - {name: "The Mexican Cultural Centre (MCC)", description: "The Mexican Cultural Centre (MCC)", link: "https://mexicanculturalcentre.com/", imageUrl: "mcc.jpg"}
+    - {name: "Churchill College", description: "Churchill College", link: "https://www.chu.cam.ac.uk/", imageUrl: "churchill_college.jpg"}
+    - {name: "Emmanuel College", description: "Emmanuel College", link: "https://www.emma.cam.ac.uk/", imageUrl: "emmanuel_college.jpg"}
+    - {name: "Gates Cambridge", description: "Gates Cambridge", link: "https://www.gatescambridge.org/", imageUrl: "gates_cambridge.jpg"}
+    - {name: "Nanna Mexico", description: "Nanna Mexico", link: "http://www.nannamexico.com", imageUrl: "nanna-mx.jpg"}

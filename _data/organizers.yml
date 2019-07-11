@@ -1,0 +1,5 @@
+-
+  group: "Organised by"
+  elements:
+    - {name: "Society of Mexican Students in the United Kingdom (MexSocUK)", description: "Society of Mexican Students in the United Kingdom (MexSocUK)", link: "http://www.mexsoc.org.uk/", imageUrl: "mexsocuk.jpg"}
+    - {name: "Cambridge University Mexican Society (CUMexSoc)", description: "Cambridge University Mexican Society (CUMexSoc)", link: "https://www.facebook.com/CUMexicanSociety/", imageUrl: "cumexsoc.jpg"}
