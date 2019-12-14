@@ -52,10 +52,8 @@ navigationLinks:
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/xvii-symposium-of-mexican-studies-and-students-in-the-uk-tickets-58300972779#tickets", text: "Register"}
- - {link: "https://drive.google.com/file/d/1TKt2LXhr4x-GuMI_xLcmL_WrmNJMe1xP/view", text: "Programme"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/xvii-symposium-of-mexican-studies-and-students-in-the-uk-tickets-58300972779#tickets", text: "Register"}
- - {link: "https://drive.google.com/file/d/1TKt2LXhr4x-GuMI_xLcmL_WrmNJMe1xP/view", text: "Programme"}
 
 # Hero Block
 heroImage: "hero.jpg"
